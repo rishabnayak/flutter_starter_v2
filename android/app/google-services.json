@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610701345151",
+    "firebase_url": "https://flutter-starter-v2.firebaseio.com",
+    "project_id": "flutter-starter-v2",
+    "storage_bucket": "flutter-starter-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610701345151:android:5ac5f90e69fcbff3f25a4a",
+        "android_client_info": {
+          "package_name": "com.rishab.flutter_starter_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610701345151-235kk9qnohop889r8b76940vfigummti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0CO2vomNu4ctQwex-frJaLWcCcNXkdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610701345151-235kk9qnohop889r8b76940vfigummti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
